@@ -87,6 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Views\NavBar.html" />
     <Content Include="Views\Scripts\bootstrap.js" />
     <Content Include="Views\Scripts\jquery-3.2.1.js" />
     <Content Include="Views\Scripts\navbar.js" />
